@@ -1,0 +1,6 @@
+  <configuration>
+      <property>
+          <name>fs.defaultFS</name>
+          <value>hdfs://master.cini-project.cloud:8020</value>
+      </property>
+  </configuration>
